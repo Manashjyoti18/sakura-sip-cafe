@@ -32,7 +32,7 @@ sakura-sip-cafe/
 │   ├── reservation.js      # Reservation form handling
 │   ├── particles.js        # Particle effects
 │   └── animations.js       # Animation controllers
-└── assets/
+└── assets/ 1
     └── images/             # Image assets
 ```
 
