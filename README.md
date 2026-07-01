@@ -40,7 +40,7 @@ sakura-sip-cafe/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/sakura-sip-cafe.git
+   git clone https://github.com/Manashjyoti18/sakura-sip-cafe.git
    ```
 2. Open `index.html` in your browser — no build step required!
 
